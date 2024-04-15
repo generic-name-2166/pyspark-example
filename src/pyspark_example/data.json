@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "name": "Product 0",
+            "product_id": 0
+        },
+        {
+            "name": "Product 1",
+            "product_id": 1
+        },
+        {
+            "name": "Product 2",
+            "product_id": 2
+        },
+        {
+            "name": "Product 3",
+            "product_id": 3
+        },
+        {
+            "name": "Product 4",
+            "product_id": 4
+        }
+    ],
+    "categories": [
+        {
+            "name": "Category 0",
+            "category_id": 0
+        },
+        {
+            "name": "Category 1",
+            "category_id": 1
+        },
+        {
+            "name": "Category 2",
+            "category_id": 2
+        },
+        {
+            "name": "Category 3",
+            "category_id": 3
+        },
+        {
+            "name": "Category 4",
+            "category_id": 4
+        }
+    ],
+    "links": [
+        {
+            "product_id": 0,
+            "category_id": 0
+        },
+        {
+            "product_id": 0,
+            "category_id": 1
+        },
+        {
+            "product_id": 1,
+            "category_id": 1
+        },
+        {
+            "product_id": 2,
+            "category_id": 2
+        },
+        {
+            "product_id": 2,
+            "category_id": 2
+        },
+        {
+            "product_id": 2,
+            "category_id": 3
+        },
+        {
+            "product_id": 2,
+            "category_id": 4
+        }
+    ]
+}
